@@ -27,7 +27,7 @@ public class GameTacoDelegate : MonoBehaviour {
 	public void Init() {
 		InitGameTacoObjects();
 	}
-
+//dddda*/dddddddddddddddddddddd
 	private void InitGameTacoObjects() {
 		CreateTournamentTacoTexts = new List<Text>();
 		CreateTournamentCashTexts = new List<Text>();
